@@ -29,3 +29,6 @@ user provided data
 ## rough break down of tasks
 1. Allowing user to input Credit Score, Annual Income, Years of Employment, Number of repaid loans, & Desired Loan amount
 2. Predict whether or not the user will be approved for the loan
+
+
+![Code Screenshot_2](https://user-images.githubusercontent.com/114365472/218622337-49ae2b82-5815-4f34-b68e-b99f2b5eb0b1.png)
